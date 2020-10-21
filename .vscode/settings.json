@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "algorithm": "cpp",
+        "ostream": "cpp"
+    }
+}

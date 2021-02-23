@@ -1,5 +1,5 @@
 ## BaekJoon online judge   
 https://www.acmicpc.net/user/jonitox
 
-## CodeForces
+## Codeforces
 https://codeforces.com/profile/jonitox

@@ -1,4 +1,5 @@
-# PS
+# Problem Solving /Programming
+
 
 
 ## BaekJoon online judge    

@@ -16,9 +16,9 @@ https://atcoder.jp/users/jonitox.
 
 ## KickStart   
 https://codingcompetitions.withgoogle.com/kickstart     
-Round A 2021 - 1795th    
-Round B 2021 - 821th   
-Round C 2021 - 171th   
+Round A 2021 - 1795 th 
+Round B 2021 - 821 st   
+Round C 2021 - 171 st   
 
 ## SCPC      
 2020 - 본선     
